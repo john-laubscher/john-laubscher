@@ -11,4 +11,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... [Facebook Page](https://www.facebook.com/john.laubscher.9/)
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I used to rock climb quite a bit in college.
--->
