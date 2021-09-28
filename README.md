@@ -1,5 +1,5 @@
 Hi there 👋
-I'm John, and I'm a full-stack developer 🖥️ from Memphis TN. I love frisbee 🥏 and soccer ⚽, and have a passion for coaching youth soccer.
+I'm John, and I'm a full-stack developer from Memphis TN. I love frisbee 🥏 and soccer ⚽, and have a passion for coaching youth soccer.
 
 
 
